@@ -16,6 +16,14 @@
 
 > **This project is in active development.** Features may change, and some things might break. If you run into a problem or have an idea, [open an issue](https://github.com/fathah/hermes-desktop/issues). Contributions are welcome!
 
+## About this fork
+
+This repository is my fork-based experiment on top of [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop).
+
+I'm using it as a personal AI office for acorn: a place where daily work, agents, skills, scheduled jobs, and notes can come together in one desktop workspace. This is not a separate product or an official Hermes Desktop release. It is a working fork that I use, modify, and test in my own operating environment.
+
+If you want the upstream project, start with [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop).
+
 ## Languages
 
 - English: `README.md`
